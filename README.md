@@ -1,12 +1,9 @@
-# Demo PlayerVaults Plugin
+# PlayerVaults Plugin
 
 ## Configuration
 
 ### Menu Configurations
-- Located in **`config/menu/`** packages.
-
-### Global Messages
-- Located in **`config/MessagesConfig`**.
+- Located in **`config/`** packages called **`player-vault-menu.yml`**.
 
 ## Commands
 
