@@ -1,0 +1,4 @@
+name: PlayerVaults
+version: '0.1'
+main: dev.dumble.vaults.PlayerVaults
+api-version: 1.21
